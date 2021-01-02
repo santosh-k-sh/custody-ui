@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/santosh-k-sh/custody-ui/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/santosh-k-sh/custody-ui/static/js/main.c4a67c09.chunk.js",
+    "main.js.map": "/santosh-k-sh/custody-ui/static/js/main.c4a67c09.chunk.js.map",
+    "runtime-main.js": "/santosh-k-sh/custody-ui/static/js/runtime-main.47bf1fb5.js",
+    "runtime-main.js.map": "/santosh-k-sh/custody-ui/static/js/runtime-main.47bf1fb5.js.map",
+    "static/js/2.c2f7104c.chunk.js": "/santosh-k-sh/custody-ui/static/js/2.c2f7104c.chunk.js",
+    "static/js/2.c2f7104c.chunk.js.map": "/santosh-k-sh/custody-ui/static/js/2.c2f7104c.chunk.js.map",
+    "static/js/3.817e0a76.chunk.js": "/santosh-k-sh/custody-ui/static/js/3.817e0a76.chunk.js",
+    "static/js/3.817e0a76.chunk.js.map": "/santosh-k-sh/custody-ui/static/js/3.817e0a76.chunk.js.map",
+    "index.html": "/santosh-k-sh/custody-ui/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/santosh-k-sh/custody-ui/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c2f7104c.chunk.js.LICENSE.txt": "/santosh-k-sh/custody-ui/static/js/2.c2f7104c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/santosh-k-sh/custody-ui/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47bf1fb5.js",
+    "static/js/2.c2f7104c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.c4a67c09.chunk.js"
+  ]
+}
